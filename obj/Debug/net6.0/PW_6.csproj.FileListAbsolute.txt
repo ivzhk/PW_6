@@ -1,0 +1,17 @@
+C:\Users\Uzer\Desktop\C#\PW_6\bin\Debug\net6.0\PW_6.exe
+C:\Users\Uzer\Desktop\C#\PW_6\bin\Debug\net6.0\PW_6.deps.json
+C:\Users\Uzer\Desktop\C#\PW_6\bin\Debug\net6.0\PW_6.runtimeconfig.json
+C:\Users\Uzer\Desktop\C#\PW_6\bin\Debug\net6.0\PW_6.dll
+C:\Users\Uzer\Desktop\C#\PW_6\bin\Debug\net6.0\PW_6.pdb
+C:\Users\Uzer\Desktop\C#\PW_6\bin\Debug\net6.0\Newtonsoft.Json.dll
+C:\Users\Uzer\Desktop\C#\PW_6\obj\Debug\net6.0\PW_6.csproj.AssemblyReference.cache
+C:\Users\Uzer\Desktop\C#\PW_6\obj\Debug\net6.0\PW_6.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Uzer\Desktop\C#\PW_6\obj\Debug\net6.0\PW_6.AssemblyInfoInputs.cache
+C:\Users\Uzer\Desktop\C#\PW_6\obj\Debug\net6.0\PW_6.AssemblyInfo.cs
+C:\Users\Uzer\Desktop\C#\PW_6\obj\Debug\net6.0\PW_6.csproj.CoreCompileInputs.cache
+C:\Users\Uzer\Desktop\C#\PW_6\obj\Debug\net6.0\PW_6.csproj.CopyComplete
+C:\Users\Uzer\Desktop\C#\PW_6\obj\Debug\net6.0\PW_6.dll
+C:\Users\Uzer\Desktop\C#\PW_6\obj\Debug\net6.0\refint\PW_6.dll
+C:\Users\Uzer\Desktop\C#\PW_6\obj\Debug\net6.0\PW_6.pdb
+C:\Users\Uzer\Desktop\C#\PW_6\obj\Debug\net6.0\PW_6.genruntimeconfig.cache
+C:\Users\Uzer\Desktop\C#\PW_6\obj\Debug\net6.0\ref\PW_6.dll
